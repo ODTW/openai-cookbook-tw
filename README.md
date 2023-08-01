@@ -2,9 +2,15 @@
 
 The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
 
+OpenAI Cookbook 分享使用 [OpenAI API] 來完成一些日常工作的程式範例
+
 To run these examples, you'll need an OpenAI account and API key ([create a free account][api signup]).
 
+要執行這些程式範例，您需要一個 OpenAI 的帳號和 API Key ([create a free account][api signup])。
+
 Most code examples are written in Python, though the concepts can be applied in any language.
+
+
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
 
